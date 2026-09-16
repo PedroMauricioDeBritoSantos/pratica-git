@@ -1,1 +1,2 @@
 arquivo exclusivo da branch
+mais ajustes na feature
